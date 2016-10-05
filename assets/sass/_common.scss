@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+// clearfix
+.cf:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+// table block
+.tbl {
+	display: table;
+	width: 100%;
+	.cell {
+		display: table-cell;
+	}
+}
