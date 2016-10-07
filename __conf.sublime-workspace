@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"tar",
+				"@tar\tsnippet-target"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				],
+				[
+					"Packages/Compass/Compass.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Compass/Compass.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/SKIPビジュアルプラザ/07.VPN接続/VPN接続情報.txt",
+		"/Users/yuki/Project/catApp/index.php",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/00_home/document/自宅.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/BarktoImagine/01.開発環境/さくらVPS/桃山さん",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/BarktoImagine/01.開発環境/さくらVPS/サーバ.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/SKIPビジュアルプラザ/05.資料/info.txt",
+		"/Users/yuki/Project/catApp/.gitignore",
+		"/Users/yuki/Downloads/cat_app.sql",
+		"/Users/yuki/Downloads/localhost.sql",
+		"/Users/yuki/Project/template/assets/css/reset.css",
+		"/Users/yuki/Project/template/assets/css/reset.min.css",
+		"/Users/yuki/Project/template/assets/sass/style.scss",
+		"/Users/yuki/Project/template/.gitignore",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/Icon\r",
+		"/Users/yuki/Project/skip/.gitignore",
+		"/Users/yuki/Localhost/template/.gitignore",
+		"/Users/yuki/Project/template/index.html",
+		"/Volumes/disk/skip_サーバ情報.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/DOGGYS ISLAND/サーバー/20160923_アカウント情報/doggys_account.txt",
+		"/Users/yuki/Downloads/test.html",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/SKIPビジュアルプラザ/07.VPN接続/BTI様情報.txt",
+		"/Users/yuki/Downloads/出社.txt",
+		"/Users/yuki/Downloads/yuki87317_domainlist.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/BarktoImagine/01.開発環境/さくらVPS/さくらアカウント.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/マインドシェア/01.資料/chihou.jp 工数見積り.txt",
+		"/etc/hosts",
+		"/etc/apache2/httpd.conf",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/yuki/Project/index.html",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/yuki/Project/sample/index.html",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/yuki/Localhost/sample/index.html",
+		"/Users/yuki/Downloads/htaccess.bak/index.html",
+		"/Users/yuki/Downloads/mtg_20160921_EPARKについて_lanway.txt",
+		"/Users/yuki/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yuki/Git/skip/README.md",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/マインドシェア/本番サーバ.txt",
+		"/Users/yuki/Downloads/lanway.txt",
+		"/Users/yuki/Downloads/lanwey.txt",
+		"/private/etc/apache2/extra/httpd-vhosts.conf~orig",
+		"/Users/yuki/Downloads/web/index.html",
+		"/Users/yuki/Downloads/web/applican-config.xml",
+		"/Users/yuki/Downloads/web/file.php",
+		"/Users/yuki/Downloads/web/index.php",
+		"/Users/yuki/Downloads/icomoon (2)/style.css",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/GDOスポット案件/14.デサントFW9月/差分.txt",
+		"/Users/yuki/Git/skip/assets/sass/style.scss",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/NEPON 公式サイト運用/00.サーバ/開発環境サーバ.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/NEPON 公式サイト運用/00.サーバ/サーバ.txt",
+		"/Users/yuki/Git/catApp/.gitignore",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/マインドシェア/開発サーバ.txt",
+		"/Users/yuki/Desktop/20160908_4_本番一式_リリース前/file/hotel/index.html",
+		"/Users/yuki/Desktop/doggys/css/style.css",
+		"/Users/yuki/Desktop/assets/css/style.css",
+		"/Users/yuki/Desktop/20160908_5_開発一式_リリース前/assets/scss/_headerFooter.scss",
+		"/Users/yuki/Desktop/20160908_5_開発一式_リリース前/.htaccess",
+		"/Users/yuki/Desktop/20160908_5_開発一式_リリース前/assets/scss/_style.scss",
+		"/Users/yuki/Desktop/20160908_5_開発一式_リリース前/assets/scss/_top.scss",
+		"/Users/yuki/Git/template/assets/sass/style.scss",
+		"/Users/yuki/Desktop/ms_wp_site.sql",
+		"/Users/yuki/Git/skip/assets/sass/_common.scss",
+		"/Users/yuki/Downloads/adminer-4.2.5.php",
+		"/Users/yuki/Log/terminal/20160906_104820.Custom.w0t0p1:628CECF4-4543-422E-BBDF-8D763F341AA6.17475.380bbeb5.log",
+		"/Users/yuki/Log/terminal/20160512_232237.Custom.w0t0p0.52415.7cc32f26.log",
+		"/Users/yuki/Git/skip/assets/config.rb",
+		"/Users/yuki/Desktop/descentegolf/css/footer.css",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/GDOスポット案件/14.デサントFW9月/差分",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/dアカウント/00.資料/サーバ.txt",
+		"/Users/yuki/Desktop/abehi_reset.css",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/DOGGYS ISLAND/サーバー/file_20160701/【ドギーズアイランド】コーディング仕様.txt",
+		"/Users/yuki/Git/skip/assets/sass/_icomoon.scss",
+		"/Users/yuki/Git/skip/assets/sass/icomoon.scss",
+		"/Users/yuki/Desktop/sass/in.scss",
+		"/Users/yuki/Desktop/sass/val.scss",
+		"/Users/yuki/Desktop/sass/test.css",
+		"/Users/yuki/Desktop/sass/test.scss",
+		"/Users/yuki/Desktop/sass/val.css",
+		"/Users/yuki/Desktop/sass/test.sass",
+		"/Users/yuki/Git/skip/assets/sass/config.css.map",
+		"/Users/yuki/Git/skip/assets/sass/config.css",
+		"/Users/yuki/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/yuki/Vagrant/mycentos/Vagrantfile",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/アウザ/サーバ.txt",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Users/yuki/Localhost/skip_city/assets/sass/_base.scss",
+		"/Applications/MAMP/htdocs/index.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/La Feuille/03.資料/mtg_議事録_20160623.txt",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/La Feuille/00.サーバ/サーバ.txt",
+		"/Users/yuki/Localhost/index.php",
+		"/Users/yuki/Localhost/assets/config.rb",
+		"/Users/yuki/Localhost/assets/sass/style.scss",
+		"/Users/yuki/Localhost/assets/css/style.css",
+		"/Users/yuki/Localhost/assets/sass/_config.scss",
+		"/Users/yuki/Dropbox (BarktoImagine Inc.)/00_home/document/google_MaterialIcons_Android対応.txt",
+		"/private/etc/apache2/extra/httpd-mpm.conf~orig",
+		"/Users/yuki/Desktop/test.css",
+		"/Users/yuki/Localhost/assets/sass/_config.scss.txt",
+		"/Users/yuki/Localhost/assets/sass/style.sass.txt",
+		"/Users/yuki/Localhost/assets/css/reset.css",
+		"/Users/yuki/Downloads/abehi_reset.css",
+		"/Users/yuki/Localhost/assets/css/screen.css",
+		"/Users/yuki/Localhost/index.txt",
+		"/private/etc/apache2/extra/httpd-mpm.conf",
+		"/Users/yuki/Library/Application Support/Sublime Text 3/Packages/YUI Compressor/YUI Compressor.sublime-build",
+		"/Users/yuki/Desktop/src/utility/ctop_about_pc.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/regeasyc3.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/regeasyd1.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/regnumber.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/renew.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/rules.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/servicecoopecancel.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/servicecooperation.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/spmodepasslock.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/terms.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/twostepauth_sp.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/unsupported.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/bioauth.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/cancel.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/change.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/compatible.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/history.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/index.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/appli/sp/ios_about_bioauth.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/faq1.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/faq2.html",
+		"/Users/yuki/Desktop/20160708_開発一式/src/utility/sp/faq3.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"INSERT INTO theme_tbl (question, answer, advice, theme_date, created, updated) VALUE ('To me you fell in love?', 'ほれちゃった？', '和訳の、ワンポイントアドバイス。文章です。サンプルの文章です。今日のお題の実際の使い方について説明します。', CURDATE(), NOW(), NOW());",
+			"INSERT INTO theme_tbl (question, answer, advice, theme_date, created, updated) VALUE (To me you fell in love?, ほれちゃった？, 和訳の、ワンポイントアドバイス。文章です。サンプルの文章です。今日のお題の実際の使い方について説明します。, CURDATE(), NOW(), NOW());",
+			"DEFAULT CURRENT_TIMESTAMP",
+			"internal_id",
+			"theme_tbl",
+			"question",
+			"setting_tbl",
+			"user_tbl",
+			"VARCHAR",
+			"{{database name}}",
+			"document",
+			"vhost",
+			"documentr",
+			"listen",
+			"<virtualhost *:80=\"\">  \nDocumentRoot \"C:/xampp/htdocs\"  \nServerName localhost  \n</virtualhost>  \n  \n<virtualhost *:80=\"\">  \nDocumentRoot \"C:/xampp/htdocs/hoge\"  \nServerName hoge  \n</virtualhost>  \n  \n<virtualhost *:80=\"\">  \nDocumentRoot \"C:/xampp/htdocs/moga\"  \nServerName moga  \n</virtualhost> ",
+			"sample",
+			"sampl",
+			"Include /private/etc/apache2/extra/httpd-vhosts",
+			"airu",
+			"#Include /private/etc/apache2/extra/httpd-vhosts.conf",
+			"listen",
+			"localhost",
+			"root",
+			"document ",
+			"document r",
+			":80",
+			"namevi",
+			"<VirtualHost",
+			"<VirtualHost *:80>",
+			"http://example.new/",
+			"http://example.old/",
+			"http://example.new/",
+			"http://example.old",
+			"example.old/",
+			"http://example.old/",
+			"http://example.new/",
+			"http://example.old/",
+			"doggys-old",
+			"ga",
+			"back-ground",
+			"header-menuIcon",
+			"footerReservation-btn",
+			"gnavFooter-reservationBtn",
+			"reservationBtn",
+			"exhibition_detail_item",
+			"mv",
+			"config",
+			"index.php",
+			"hl_tech",
+			".facilities_btn.plaza",
+			"coord_mens",
+			"coord_mens08",
+			"descente_golf_customer_voice",
+			"descentegolf-onfield_151112_07",
+			"h2_other.gif",
+			"h2_point",
+			"heat_btn",
+			"hl_heat_navi",
+			"hl_ladies",
+			"icn_",
+			"icn_wind",
+			"img01.gif",
+			"img01",
+			"mens_btn",
+			"motion_05",
+			"motion3d_products",
+			"motion3d_title",
+			"top_title",
+			"top",
+			"txt02",
+			"btn_special",
+			"btn_special01",
+			"btn",
+			"img",
+			"img04",
+			"main02",
+			"sp_w_wear",
+			"sp_w_wear_05",
+			"sp_wearbtn_men_04",
+			"wareimg",
+			"wareimg05",
+			"wearbtn",
+			"wearbtn10",
+			"wearbtn02",
+			"wearbtn05",
+			"wearbtn03",
+			"wearbtn02",
+			"wearbtn02_on",
+			"wearbtn01_on",
+			"wearbtn_new_ladies0",
+			"wearbtn_new_ladies02_on",
+			"wearbtn_men_01_on",
+			"wearbtn_l",
+			"wearbtn_l_05",
+			"warebtn",
+			"warebtn01",
+			"w_wear_",
+			"w_wear_0",
+			"w_wear_01",
+			"subvid01",
+			"nav03",
+			"main",
+			"main_sale",
+			"m_wear_",
+			"m_wear_0",
+			"m_wear_01",
+			"m_wear_01_on",
+			"descente_golf_topics",
+			"header_btn",
+			"header_btn01_on",
+			"header_logo01",
+			"header_btn01",
+			"header_btn01_on",
+			"btn",
+			"btn01",
+			"btn_special_small_field",
+			"btn_special_s_national",
+			"btn_special_s_field",
+			"btn_special_l_2016fw",
+			"btn_special_l_2016fw_on",
+			"/newshop/feature/brandstore/descentegolf/descentegolf-collection/images",
+			"descentegolf-onfield",
+			"warebtn01",
+			"warebtn01_on",
+			"sunscreen_products",
+			"sunsc_01_on",
+			"hl_tech",
+			"hl_heat_navi_small"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t",
+			"_im.html",
+			"/utility",
+			"",
+			"\t",
+			">> $1）",
+			">> ($1)）",
+			"",
+			"<a href=\"/$1\">",
+			"<a href=\"$1\">",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__conf.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"public_html/smile2/app/portal/modules/index/templates/_mobile/cp2_indexSuccess.php"
+			],
+			[
+				"index",
+				"public_html/smile2/app/portal/modules/index/templates/_mobile/cp2_indexSuccess.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
