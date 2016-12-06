@@ -1,7 +1,6 @@
 .sass-cache/
 *.css.map
-*.sublime-workspace
-*.sublime-project
+*.sublime*
 prepros.cfg
 ~*.xlsx
 ~*.pptx
