@@ -1,7 +1,16 @@
-@charset "utf-8";
-
+/* line 4, ../sass/_common.scss */
 .cf:after {
-	content: "";
-	clear: both;
-	display: block;
+  content: "";
+  clear: both;
+  display: block;
+}
+
+/* line 11, ../sass/_common.scss */
+.tbl {
+  display: table;
+  width: 100%;
+}
+/* line 14, ../sass/_common.scss */
+.tbl .cell {
+  display: table-cell;
 }
